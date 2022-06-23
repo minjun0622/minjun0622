@@ -1,7 +1,7 @@
 Hi 👋 My name is Minjun Seo
 ===========================
 
-Starting out as a computer science major at Hunter College, I dove into programming with a little bit of knowledge in Java. Then as I transferred to the Georgia Institute of Technology, I was able to deepen my skills at programming and understanding of computer science. During the summer of 2022, I am currently a software developer intern at Centene Corporation. Excited to see what comes next in my life!
+My computer science journey started with an introductory programming course in high school utilizing Doctor Racket and Netlogo. Then I dove into programming with a little bit of knowledge in Java as well as Python. My freshman year of college was as a student in Hunter College where I was exposed to C++. Then as I transferred to the Georgia Institute of Technology, where I was able to deepen my skills at programming and understanding of computer science. During the summer of 2022, I am currently a software developer intern at Centene Corporation. Excited to see what comes next in my life!
 
 * 🌍  I'm based in New York/Atlanta
 * ✉️  You can contact me at [mseo38@gatech.edu](mailto:mseo38@gatech.edu)
